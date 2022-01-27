@@ -5,7 +5,7 @@ public class CameraControl : MonoBehaviour
     public float m_DampTime = 0.2f;                 // tiempo de enfocar otra vez.
     public float m_ScreenEdgeBuffer = 4f;           // espacio entre arriba y abajo.
     public float m_MinSize = 6.5f;                  // minimo tamaño de la camara.
-    public Transform[] m_Targets; // array con todas las posiciones que necesita la camara.
+    [HideInInspector] public Transform[] m_Targets; // array con todas las posiciones que necesita la camara.
 
 
     private Camera m_Camera;                       
