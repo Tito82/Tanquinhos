@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637786426235983484
+      ticks: 637787333640000000
     m_Hash: 1478386740
   m_LockFileStatus:
     m_FilePath: "C:/Users/ferna/Documents/DAM2/Unity/Tanqui\xF1os/Packages/packages-lock.json"
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637786426539874591
+      ticks: 637787333640000000
     m_Hash: 3467132171
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -1180,10 +1180,12 @@ m_PackageAssets:
         - 1.1.29
         - 1.1.30
         - 2.0.1-pre.12
+        - 2.0.1-pre.18
         compatible:
         - 1.1.29
         - 1.1.30
         - 2.0.1-pre.12
+        - 2.0.1-pre.18
         verified: 1.1.30
       dependencies:
       - name: com.unity.ext.nunit
@@ -3526,8 +3528,10 @@ m_PackageAssets:
       versions:
         all:
         - 0.1.5-preview
+        - 0.1.6-preview
         compatible:
         - 0.1.5-preview
+        - 0.1.6-preview
         verified: 
       dependencies: []
       resolvedDependencies: []
@@ -3546,7 +3550,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 636898921580000000
       documentationUrl: 
       hasRepository: 0
       repository:
